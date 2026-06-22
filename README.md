@@ -12,6 +12,7 @@
 
 ## 文档目录
 
+- [需求说明书](docs/00-requirements.md)
 - [第一阶段方案](docs/01-first-stage-plan.md)
 - [页面与功能模块清单](docs/02-module-inventory.md)
 - [移动端兼容性问题清单](docs/03-mobile-compatibility-issues.md)
